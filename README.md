@@ -5,7 +5,7 @@ Using apscheduler for DRF to send customers automatically birthday wish notifica
 1. install the latest version of Python and Django
 2. Install Django rest framework by following DRF documentation: 
   https://www.django-rest-framework.org/#requirements
-  Also, you can setup virtual environment to work:
+  Also, you can setup the virtual environment to work:
 
   To set the environment run this command:
   **py -m venv env**
