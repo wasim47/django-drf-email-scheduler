@@ -17,6 +17,8 @@ Using apscheduler for DRF to send customers automatically birthday wishes notifi
    Ener Password (again):
 
     Then you can log in Django admin by using the above credentials
+
+   
 5. Now the project is successfully installed
 
 Now you will find a restapp in your project with restapi folder also.
@@ -32,13 +34,11 @@ You can also run by using postman or other apps to read API.
 You can also crud operation by using django admin.
 
 
-# You also need to install apschedule if not available on your project
-
+**You also need to install apschedule if not available on your project**
 pip install django-apscheduler
 In the scheduler already cron time set. Cron will run every day first minute of 00 hour
 
 **scheduler.add_job(send_email, 'cron', day='*', hour=0, minute=1)**
-
 You can modify it as you need also
 
 
@@ -52,6 +52,10 @@ EMAIL_POTRT = 587
 EMAIL_HOST_USER = 'example@gmail.com'
 EMAIL_HOST_PASSWORD = 'app password for your Gmail accoung'
 EMAIL_FROM_USER = 'example@gmail.com'
+
+**Email template customer get like this:**
+![Screenshot_21](https://github.com/wasim47/django-drf-email-scheduler/assets/20879011/f3918645-de5d-4edd-b06b-881005537c10)
+
 
 
 Finally customer will get birthday wishing email on there birthday.
