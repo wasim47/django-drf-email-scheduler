@@ -1,0 +1,862 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "restapp",
+        "description": "restapp",
+        "isExtraImport": true,
+        "detail": "restapp",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMultiAlternatives",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "render_to_string",
+        "importPath": "django.template.loader",
+        "description": "django.template.loader",
+        "isExtraImport": true,
+        "detail": "django.template.loader",
+        "documentation": {}
+    },
+    {
+        "label": "strip_tags",
+        "importPath": "django.utils.html",
+        "description": "django.utils.html",
+        "isExtraImport": true,
+        "detail": "django.utils.html",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "BackgroundScheduler",
+        "importPath": "apscheduler.schedulers.background",
+        "description": "apscheduler.schedulers.background",
+        "isExtraImport": true,
+        "detail": "apscheduler.schedulers.background",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "JSONRenderer",
+        "importPath": "rest_framework.renderers",
+        "description": "rest_framework.renderers",
+        "isExtraImport": true,
+        "detail": "rest_framework.renderers",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "JSONParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "JSONDecodeError",
+        "importPath": "json.decoder",
+        "description": "json.decoder",
+        "isExtraImport": true,
+        "detail": "json.decoder",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.asgi",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure--uo0&pb(*176c*&x06)m4b00=3ngd6)v+a$yg8r^33%lr$7*!7'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure--uo0&pb(*176c*&x06)m4b00=3ngd6)v+a$yg8r^33%lr$7*!7'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'restapp'\n]",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'birthdayWithingEmail.urls'",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "ROOT_URLCONF = 'birthdayWithingEmail.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR, \"restapp/templates\"],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR, \"restapp/templates\"],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'birthdayWithingEmail.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'restapp/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'restapp/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'restapp/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'restapp/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "STATIC_URL = 'restapp/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_POTRT = 587\nEMAIL_HOST_USER = 'ethnicmeal@gmail.com'\nEMAIL_HOST_PASSWORD = 'yrxsnytdiwdwcvxz'",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_POTRT = 587\nEMAIL_HOST_USER = 'ethnicmeal@gmail.com'\nEMAIL_HOST_PASSWORD = 'yrxsnytdiwdwcvxz'\nEMAIL_FROM_USER = 'wasim.html@gmail.com'",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_POTRT = 587\nEMAIL_HOST_USER = 'ethnicmeal@gmail.com'\nEMAIL_HOST_PASSWORD = 'yrxsnytdiwdwcvxz'\nEMAIL_FROM_USER = 'wasim.html@gmail.com'",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "EMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_POTRT = 587\nEMAIL_HOST_USER = 'ethnicmeal@gmail.com'\nEMAIL_HOST_PASSWORD = 'yrxsnytdiwdwcvxz'\nEMAIL_FROM_USER = 'wasim.html@gmail.com'",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_POTRT = 587\nEMAIL_HOST_USER = 'ethnicmeal@gmail.com'\nEMAIL_HOST_PASSWORD = 'yrxsnytdiwdwcvxz'\nEMAIL_FROM_USER = 'wasim.html@gmail.com'",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_POTRT",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "EMAIL_POTRT = 587\nEMAIL_HOST_USER = 'ethnicmeal@gmail.com'\nEMAIL_HOST_PASSWORD = 'yrxsnytdiwdwcvxz'\nEMAIL_FROM_USER = 'wasim.html@gmail.com'",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "EMAIL_HOST_USER = 'ethnicmeal@gmail.com'\nEMAIL_HOST_PASSWORD = 'yrxsnytdiwdwcvxz'\nEMAIL_FROM_USER = 'wasim.html@gmail.com'",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = 'yrxsnytdiwdwcvxz'\nEMAIL_FROM_USER = 'wasim.html@gmail.com'",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_FROM_USER",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "peekOfCode": "EMAIL_FROM_USER = 'wasim.html@gmail.com'",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.urls",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api-auth/', include('rest_framework.urls')),\n    path('customer-list/', views.customer_list, name=\"customerlist\"),\n    path('customer/<int:pk>', views.customer, name=\"customerinfo\"),\n    path('customer-register/', views.customer_create, name=\"customercreate\"),\n    path('customer-update/', views.customer_update, name='customerupdate'),\n    path('customer-delete/', views.customer_delete, name='customerdelete'),\n]",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.birthdayWithingEmail.wsgi",
+        "description": "birthdayWithingEmail.birthdayWithingEmail.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "birthdayWithingEmail.birthdayWithingEmail.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "birthdayWithingEmail.restapp.migrations.0001_initial",
+        "description": "birthdayWithingEmail.restapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Customer',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=150)),",
+        "detail": "birthdayWithingEmail.restapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "birthdayWithingEmail.restapp.migrations.0002_alter_customer_address_alter_customer_date_of_birth_and_more",
+        "description": "birthdayWithingEmail.restapp.migrations.0002_alter_customer_address_alter_customer_date_of_birth_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('restapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='customer',\n            name='address',\n            field=models.CharField(max_length=250),\n        ),",
+        "detail": "birthdayWithingEmail.restapp.migrations.0002_alter_customer_address_alter_customer_date_of_birth_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "birthdayWithingEmail.restapp.migrations.0003_alter_customer_date_of_birth",
+        "description": "birthdayWithingEmail.restapp.migrations.0003_alter_customer_date_of_birth",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('restapp', '0002_alter_customer_address_alter_customer_date_of_birth_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='customer',\n            name='date_of_birth',\n            field=models.DateField(),\n        ),",
+        "detail": "birthdayWithingEmail.restapp.migrations.0003_alter_customer_date_of_birth",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerAdmin",
+        "kind": 6,
+        "importPath": "birthdayWithingEmail.restapp.admin",
+        "description": "birthdayWithingEmail.restapp.admin",
+        "peekOfCode": "class CustomerAdmin(admin.ModelAdmin):\n    list_display = ['name','contact','email','address','date_of_birth']",
+        "detail": "birthdayWithingEmail.restapp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "RestappConfig",
+        "kind": 6,
+        "importPath": "birthdayWithingEmail.restapp.apps",
+        "description": "birthdayWithingEmail.restapp.apps",
+        "peekOfCode": "class RestappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'restapp'\n    def ready(self):   \n        from . import updater \t\n        updater.start()",
+        "detail": "birthdayWithingEmail.restapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "send_email",
+        "kind": 2,
+        "importPath": "birthdayWithingEmail.restapp.jobs",
+        "description": "birthdayWithingEmail.restapp.jobs",
+        "peekOfCode": "def send_email():\n    today = datetime.date.today()\n    customerData = Customer.objects.filter(date_of_birth__day=today.day, date_of_birth__month=today.month)\n    for customer in customerData:\n        context = {\n            \"receiver_name\": customer.name,\n            \"age\": calculateAge(customer.date_of_birth),\n            \"year\": 2024\n        }\n        template_name = \"email.html\"",
+        "detail": "birthdayWithingEmail.restapp.jobs",
+        "documentation": {}
+    },
+    {
+        "label": "calculateAge",
+        "kind": 2,
+        "importPath": "birthdayWithingEmail.restapp.jobs",
+        "description": "birthdayWithingEmail.restapp.jobs",
+        "peekOfCode": "def calculateAge(birthDate):\n    today = datetime.date.today()\n    year = int(birthDate.strftime(\"%Y\"))\n    month = int(birthDate.strftime(\"%m\"))\n    day = int(birthDate.strftime(\"%d\"))\n    age = today.year - year - ((today.month, today.day) < (month, day)) \n    return age",
+        "detail": "birthdayWithingEmail.restapp.jobs",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "kind": 6,
+        "importPath": "birthdayWithingEmail.restapp.models",
+        "description": "birthdayWithingEmail.restapp.models",
+        "peekOfCode": "class Customer(models.Model):\n    name = models.CharField(max_length=150)\n    contact = models.CharField(max_length=50)\n    email = models.CharField(max_length=100)\n    address = models.CharField(max_length=250)\n    date_of_birth = models.DateField()",
+        "detail": "birthdayWithingEmail.restapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerSerializer",
+        "kind": 6,
+        "importPath": "birthdayWithingEmail.restapp.serializers",
+        "description": "birthdayWithingEmail.restapp.serializers",
+        "peekOfCode": "class CustomerSerializer(serializers.Serializer):\n    name = serializers.CharField(max_length=150)\n    contact = serializers.CharField(max_length=50)\n    email = serializers.CharField(max_length=100)\n    address = serializers.CharField(max_length=250)\n    date_of_birth = serializers.DateField()\n    def create(self, validated_data):\n        return Customer.objects.create(**validated_data)\n    # Updatea data into database using serializer\n    def update(self, instace, validated_data):",
+        "detail": "birthdayWithingEmail.restapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "birthdayWithingEmail.restapp.updater",
+        "description": "birthdayWithingEmail.restapp.updater",
+        "peekOfCode": "def start():\n\tscheduler = BackgroundScheduler()\n\tscheduler.add_job(send_email, 'cron', day='*', hour=0, minute=1)\n\tscheduler.start()",
+        "detail": "birthdayWithingEmail.restapp.updater",
+        "documentation": {}
+    },
+    {
+        "label": "\tscheduler",
+        "kind": 5,
+        "importPath": "birthdayWithingEmail.restapp.updater",
+        "description": "birthdayWithingEmail.restapp.updater",
+        "peekOfCode": "\tscheduler = BackgroundScheduler()\n\tscheduler.add_job(send_email, 'cron', day='*', hour=0, minute=1)\n\tscheduler.start()",
+        "detail": "birthdayWithingEmail.restapp.updater",
+        "documentation": {}
+    },
+    {
+        "label": "customer_list",
+        "kind": 2,
+        "importPath": "birthdayWithingEmail.restapp.views",
+        "description": "birthdayWithingEmail.restapp.views",
+        "peekOfCode": "def customer_list(request):\n    # Get Customer Object List\n    list = Customer.objects.all()\n    # Convert to serialize data\n    seralizer = CustomerSerializer(list, many=True)\n    # Convert to Json Data\n    jsonData = JSONRenderer().render(seralizer.data)\n    return HttpResponse(jsonData, content_type=\"application/json\")\ndef customer(request, pk):\n    try:",
+        "detail": "birthdayWithingEmail.restapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "customer",
+        "kind": 2,
+        "importPath": "birthdayWithingEmail.restapp.views",
+        "description": "birthdayWithingEmail.restapp.views",
+        "peekOfCode": "def customer(request, pk):\n    try:\n        # Get Single Customer Data by Primary key\n        singleData = Customer.objects.get(id=pk)\n        # Convert to serialize data\n        seralizer = CustomerSerializer(singleData)\n        # Convert to Json Data\n        jsonData = JSONRenderer().render(seralizer.data)\n        return HttpResponse(jsonData, content_type=\"application/json\")\n    except Customer.DoesNotExist:",
+        "detail": "birthdayWithingEmail.restapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "customer_create",
+        "kind": 2,
+        "importPath": "birthdayWithingEmail.restapp.views",
+        "description": "birthdayWithingEmail.restapp.views",
+        "peekOfCode": "def customer_create(request):\n    if(request.method == \"POST\"):\n        json_data = request.body\n    #Json to Stream convertion\n    stream = io.BytesIO(json_data)\n    #stream to python type\n    python_data = JSONParser().parse(stream)\n    #Convert python to complex data\n    serilizer = CustomerSerializer(data=python_data)\n    if serilizer.is_valid():",
+        "detail": "birthdayWithingEmail.restapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "customer_update",
+        "kind": 2,
+        "importPath": "birthdayWithingEmail.restapp.views",
+        "description": "birthdayWithingEmail.restapp.views",
+        "peekOfCode": "def customer_update(request):\n    try:\n        if request.method == 'PUT':\n            json_data = request.body\n            #Json to Stream convertion\n            stream = io.BytesIO(json_data)\n            #stream to python type\n            python_data = JSONParser().parse(stream)\n            id = python_data.get('id')\n            customerData = Customer.objects.get(id=id)",
+        "detail": "birthdayWithingEmail.restapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "customer_delete",
+        "kind": 2,
+        "importPath": "birthdayWithingEmail.restapp.views",
+        "description": "birthdayWithingEmail.restapp.views",
+        "peekOfCode": "def customer_delete(request):\n    try:\n        if request.method == 'DELETE':\n            json_data = request.body\n            #Json to Stream convertion\n            stream = io.BytesIO(json_data)\n            #stream to python type\n            python_data = JSONParser().parse(stream)\n            id = python_data.get('id')\n            customerData = Customer.objects.get(id=id)",
+        "detail": "birthdayWithingEmail.restapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "birthdayWithingEmail.manage",
+        "description": "birthdayWithingEmail.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'birthdayWithingEmail.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "birthdayWithingEmail.manage",
+        "documentation": {}
+    },
+    {
+        "label": "URL",
+        "kind": 5,
+        "importPath": "restapi.create",
+        "description": "restapi.create",
+        "peekOfCode": "URL = \"http://127.0.0.1:8000/customer-register/\"\ndata = {\n    'name' : 'Team Friends',\n    'contact' : '(+81) 90 7263 2735',\n    'email' : \"info@teamfriends.co.jp\",\n    'address' : \"Nihonbashi Tomizawacho 9-4, THE E.A.S.T. 7th floor, Chuo-ku, Tokyo 103-0006, JP\",\n    'date_of_birth' : \"2021-09-01\",\n}\njson_data = json.dumps(data)\nreq = requests.post(url = URL, data=json_data)",
+        "detail": "restapi.create",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "restapi.create",
+        "description": "restapi.create",
+        "peekOfCode": "data = {\n    'name' : 'Team Friends',\n    'contact' : '(+81) 90 7263 2735',\n    'email' : \"info@teamfriends.co.jp\",\n    'address' : \"Nihonbashi Tomizawacho 9-4, THE E.A.S.T. 7th floor, Chuo-ku, Tokyo 103-0006, JP\",\n    'date_of_birth' : \"2021-09-01\",\n}\njson_data = json.dumps(data)\nreq = requests.post(url = URL, data=json_data)\nres = req.json()",
+        "detail": "restapi.create",
+        "documentation": {}
+    },
+    {
+        "label": "json_data",
+        "kind": 5,
+        "importPath": "restapi.create",
+        "description": "restapi.create",
+        "peekOfCode": "json_data = json.dumps(data)\nreq = requests.post(url = URL, data=json_data)\nres = req.json()\nprint(res)",
+        "detail": "restapi.create",
+        "documentation": {}
+    },
+    {
+        "label": "req",
+        "kind": 5,
+        "importPath": "restapi.create",
+        "description": "restapi.create",
+        "peekOfCode": "req = requests.post(url = URL, data=json_data)\nres = req.json()\nprint(res)",
+        "detail": "restapi.create",
+        "documentation": {}
+    },
+    {
+        "label": "res",
+        "kind": 5,
+        "importPath": "restapi.create",
+        "description": "restapi.create",
+        "peekOfCode": "res = req.json()\nprint(res)",
+        "detail": "restapi.create",
+        "documentation": {}
+    },
+    {
+        "label": "URL",
+        "kind": 5,
+        "importPath": "restapi.delete",
+        "description": "restapi.delete",
+        "peekOfCode": "URL = \"http://127.0.0.1:8000/customer-delete/\"\ndata = {\n    'id' : 1,\n}\njson_data = json.dumps(data)\nreq = requests.delete(url = URL, data=json_data)\nres = req.json()\nprint(res)",
+        "detail": "restapi.delete",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "restapi.delete",
+        "description": "restapi.delete",
+        "peekOfCode": "data = {\n    'id' : 1,\n}\njson_data = json.dumps(data)\nreq = requests.delete(url = URL, data=json_data)\nres = req.json()\nprint(res)",
+        "detail": "restapi.delete",
+        "documentation": {}
+    },
+    {
+        "label": "json_data",
+        "kind": 5,
+        "importPath": "restapi.delete",
+        "description": "restapi.delete",
+        "peekOfCode": "json_data = json.dumps(data)\nreq = requests.delete(url = URL, data=json_data)\nres = req.json()\nprint(res)",
+        "detail": "restapi.delete",
+        "documentation": {}
+    },
+    {
+        "label": "req",
+        "kind": 5,
+        "importPath": "restapi.delete",
+        "description": "restapi.delete",
+        "peekOfCode": "req = requests.delete(url = URL, data=json_data)\nres = req.json()\nprint(res)",
+        "detail": "restapi.delete",
+        "documentation": {}
+    },
+    {
+        "label": "res",
+        "kind": 5,
+        "importPath": "restapi.delete",
+        "description": "restapi.delete",
+        "peekOfCode": "res = req.json()\nprint(res)",
+        "detail": "restapi.delete",
+        "documentation": {}
+    },
+    {
+        "label": "ApiUrl",
+        "kind": 5,
+        "importPath": "restapi.list",
+        "description": "restapi.list",
+        "peekOfCode": "ApiUrl = \"http://127.0.0.1:8000/customer-list/\"\nres = requests.get(url=ApiUrl)\ndata = res.json()\nprint(data)",
+        "detail": "restapi.list",
+        "documentation": {}
+    },
+    {
+        "label": "res",
+        "kind": 5,
+        "importPath": "restapi.list",
+        "description": "restapi.list",
+        "peekOfCode": "res = requests.get(url=ApiUrl)\ndata = res.json()\nprint(data)",
+        "detail": "restapi.list",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "restapi.list",
+        "description": "restapi.list",
+        "peekOfCode": "data = res.json()\nprint(data)",
+        "detail": "restapi.list",
+        "documentation": {}
+    },
+    {
+        "label": "URL",
+        "kind": 5,
+        "importPath": "restapi.update",
+        "description": "restapi.update",
+        "peekOfCode": "URL = \"http://127.0.0.1:8000/customer-update/\"\ndata = {\n    'id' : 4,\n    'name' : 'Team Friends JP',\n    'contact' : '(+81)9072632735',\n    'email' : \"info@teamfriends.co.jp\",\n    'address' : \"Nihonbashi Tomizawacho 9-4, THE E.A.S.T. 7th floor, Chuo-ku, Tokyo 103-0006, JP\",\n    'date_of_birth' : \"2021-09-01\",\n}\njson_data = json.dumps(data)",
+        "detail": "restapi.update",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "restapi.update",
+        "description": "restapi.update",
+        "peekOfCode": "data = {\n    'id' : 4,\n    'name' : 'Team Friends JP',\n    'contact' : '(+81)9072632735',\n    'email' : \"info@teamfriends.co.jp\",\n    'address' : \"Nihonbashi Tomizawacho 9-4, THE E.A.S.T. 7th floor, Chuo-ku, Tokyo 103-0006, JP\",\n    'date_of_birth' : \"2021-09-01\",\n}\njson_data = json.dumps(data)\nreq = requests.put(url = URL, data=json_data)",
+        "detail": "restapi.update",
+        "documentation": {}
+    },
+    {
+        "label": "json_data",
+        "kind": 5,
+        "importPath": "restapi.update",
+        "description": "restapi.update",
+        "peekOfCode": "json_data = json.dumps(data)\nreq = requests.put(url = URL, data=json_data)\nres = req.json()\nprint(res)",
+        "detail": "restapi.update",
+        "documentation": {}
+    },
+    {
+        "label": "req",
+        "kind": 5,
+        "importPath": "restapi.update",
+        "description": "restapi.update",
+        "peekOfCode": "req = requests.put(url = URL, data=json_data)\nres = req.json()\nprint(res)",
+        "detail": "restapi.update",
+        "documentation": {}
+    },
+    {
+        "label": "res",
+        "kind": 5,
+        "importPath": "restapi.update",
+        "description": "restapi.update",
+        "peekOfCode": "res = req.json()\nprint(res)",
+        "detail": "restapi.update",
+        "documentation": {}
+    }
+]

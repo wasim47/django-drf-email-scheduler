@@ -1,0 +1,62 @@
+{% load static %}
+<html>
+<head>
+    <style type="text/css">
+        /* Inline CSS */
+        .email-container {
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #0b3e75;
+            border: 1px solid #020e1b;
+            border-radius: 5px;
+            color: white;
+        }
+
+        .header {
+            background-color: #0b3e75;
+            color: #ffffff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .image {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .footer {
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 10px;
+            font-size: 12px;
+            color: black;
+        }
+        h2{
+            font-size: 30px;
+            color: greenyellow;
+        }
+        p{
+            text-align: center;
+            font-size: 20px !important;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="email-container">
+        <div class="header">
+            <h1>MAKE A WISH</h1>
+        </div>
+        <center>           
+            <img src="https://cdn.pixabay.com/photo/2015/06/17/23/23/happy-birthday-813180_1280.jpg" alt="Image 3" class="image">
+            <p>Hello {{ receiver_name }},</p>
+            <h2>Congratulations !!</h2>
+            <p> Your {{ age }} years old now.</p>
+        </center>
+        <div class="footer">
+            &copy; {{ year }} Teamfriends Inc. No rights reserved.
+        </div>
+    </div>
+</body>
+</html>
